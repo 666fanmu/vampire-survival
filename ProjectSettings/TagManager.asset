@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - PickupRange
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 448613963
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Emeny
+    uniqueID: 30249009
+    locked: 0
+  - name: Weapon
+    uniqueID: 4294570875
+    locked: 0
+  - name: Pickups
+    uniqueID: 2070140961
+    locked: 0
+  - name: Player
+    uniqueID: 726025201
+    locked: 0
+  - name: UI
+    uniqueID: 1609304431
+    locked: 0
